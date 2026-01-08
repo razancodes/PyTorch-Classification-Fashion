@@ -1,6 +1,6 @@
 # PyTorch Fashion MNIST Classification
 
-A simple neural network implementation for classifying Fashion MNIST dataset using PyTorch.
+A neural network implementation for classifying Different types of Garments on Fashion MNIST dataset using PyTorch.
 
 ## Model Architecture
 
@@ -21,7 +21,7 @@ The model consists of the following layers:
 
 ## Results
 
-- **Accuracy**: 89.8%
+- **Accuracy**: 90.1%
 
 ## Dataset
 
