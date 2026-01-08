@@ -32,6 +32,7 @@ Fashion MNIST - A dataset of 28×28 grayscale images of 10 fashion categories (T
 - PyTorch
 - torchvision
 - numpy
+<img width="845" height="889" alt="image" src="https://github.com/user-attachments/assets/f38a2529-15c6-43cf-bd40-da51f444867d" />
 
 ## Usage
 
